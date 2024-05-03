@@ -1,0 +1,22 @@
+<div class="card" style="width: 30%; padding: 30px; margin: 50px auto;">
+    <form [formGroup]="formProducto">
+      <div class="mb-3">
+        <label for="nombre" class="form-label">Nombre</label>
+        <input type="text" class="form-control" id="nombre" formControlName="nombre">
+      </div>
+      <div class="mb-3">
+        <label for="valorCompra" class="form-label">Valor de compra</label>
+        <input type="number" class="form-control" id="valorCompra" formControlName="valorCompra">
+      </div>
+      <div class="mb-3">
+        <label for="stock" class="form-label">Stock</label>
+        <input type="number" class="form-control" id="stock" formControlName="stock">
+      </div>
+  
+      <div class="mb-3">
+        <button type="button" class="btn btn-primary" (click)="guardar()">Guardar</button>
+        <button type="button" class="btn btn-danger" (click)="volver()" style="margin-left: 8px;">Volver</button>
+      </div>
+    </form>
+  </div>
+  

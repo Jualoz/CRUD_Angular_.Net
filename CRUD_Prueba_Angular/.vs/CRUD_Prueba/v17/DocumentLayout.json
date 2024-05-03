@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|c:\\users\\lozad\\source\\repos\\crud_prueba\\crud_prueba\\data\\ventadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|solutionrelative:crud_prueba\\data\\ventadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|c:\\users\\lozad\\source\\repos\\crud_prueba\\crud_prueba\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|solutionrelative:crud_prueba\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|c:\\users\\lozad\\source\\repos\\crud_prueba\\crud_prueba\\data\\inventariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|solutionrelative:crud_prueba\\data\\inventariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|c:\\users\\lozad\\source\\repos\\crud_prueba\\crud_prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|solutionrelative:crud_prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|c:\\users\\lozad\\source\\repos\\crud_prueba\\crud_prueba\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|solutionrelative:crud_prueba\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|c:\\users\\lozad\\source\\repos\\crud_prueba\\crud_prueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|solutionrelative:crud_prueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|c:\\users\\lozad\\source\\repos\\crud_prueba\\crud_prueba\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D23C0D1-D84F-4F55-8DD2-3795AE4A658B}|CRUD_Prueba\\CRUD_Prueba.csproj|solutionrelative:crud_prueba\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 116,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD_Prueba\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\appsettings.json",
+              "RelativeToolTip": "CRUD_Prueba\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T14:30:12.997Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "CRUD_Prueba\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "CRUD_Prueba\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:03:21.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "CRUD_Prueba\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "CRUD_Prueba\\Controllers\\InventarioController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwBkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:55:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD_Prueba\\Program.cs",
+              "ToolTip": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Program.cs",
+              "RelativeToolTip": "CRUD_Prueba\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:53:10.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaData.cs",
+              "DocumentMoniker": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Data\\VentaData.cs",
+              "RelativeDocumentMoniker": "CRUD_Prueba\\Data\\VentaData.cs",
+              "ToolTip": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Data\\VentaData.cs",
+              "RelativeToolTip": "CRUD_Prueba\\Data\\VentaData.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:34:51.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventarioData.cs",
+              "DocumentMoniker": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Data\\InventarioData.cs",
+              "RelativeDocumentMoniker": "CRUD_Prueba\\Data\\InventarioData.cs",
+              "ToolTip": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Data\\InventarioData.cs",
+              "RelativeToolTip": "CRUD_Prueba\\Data\\InventarioData.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAcwIIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:38:32.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "CRUD_Prueba\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Lozad\\source\\repos\\CRUD_Prueba\\CRUD_Prueba\\Models\\Venta.cs",
+              "RelativeToolTip": "CRUD_Prueba\\Models\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:28:53.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
